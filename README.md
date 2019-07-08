@@ -1,2 +1,2 @@
-# 50DaysofCode
-50 Days of Code
+# 100DaysofCode
+100 Days of Code
